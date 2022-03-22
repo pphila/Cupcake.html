@@ -1,0 +1,21 @@
+.cupcake {
+  width: 20%;
+  height: 20%;
+}
+
+.best {
+  color: goldenrod;
+  font-style: bold;
+  font-size: 16px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
